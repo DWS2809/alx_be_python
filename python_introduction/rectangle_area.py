@@ -1,7 +1,7 @@
 # Calculate the area of a rectangle
-Length = 10 #Length of the rectangle
-Width = 5 #Width of the rectange
+length = 10 #Length of the rectangle
+width = 5 #Width of the rectange
 
 # Calculate area
-area = Length * Width
+area = length * width
 print(f"The area of the rectangle is: {area}")
