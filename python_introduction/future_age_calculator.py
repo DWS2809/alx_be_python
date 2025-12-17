@@ -1,6 +1,6 @@
 # Future Age Calculator
 # Ask the user for their current age
-current_age = int(input("Enter your current age: ")) # Current age
+current_age = int(input("How old are you? ")) # Current age
 # Calculate age in 2050 (2023 + 27 years)
 age = current_age + 27 
 # Print the results
